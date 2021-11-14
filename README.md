@@ -11,9 +11,6 @@ Notes app for Android. It is built with Dart on top of Google's Flutter Framewor
 ![Build Status](https://github.com/Hash-Studios/flutter-notes-app/workflows/Analyze,%20build%20and%20deploy/badge.svg)
 
 
-![UI Mockup](demo/Tizeno_Mockup.jpg)
-
-
 ## List of Contents
 
 1. [Features](#features)
@@ -85,6 +82,3 @@ More details about these can be found in the [`pubspec.yaml`](https://github.com
 ## Development
 
 Start by forking the repository, and then run `flutter pub get` in the local repository. You are now ready to modify, fix, update, or remove any feature in the app. If you want, you can create pull requests, we will be happy to welcome them.
->Note: This project requires Flutter Framework to be installed on your machine.
-
-![Tizeno UI Mockup](demo/Tizeno_Mockup2.jpg)
