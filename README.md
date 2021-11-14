@@ -1,6 +1,6 @@
-# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> Tizeno
 
-Tizeno is a beautiful open-source notes app for Android. It is built with Dart on top of Google's Flutter Framework.
+
+Notes app for Android. It is built with Dart on top of Google's Flutter Framework.
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
@@ -11,9 +11,8 @@ Tizeno is a beautiful open-source notes app for Android. It is built with Dart o
 ![Build Status](https://github.com/Hash-Studios/flutter-notes-app/workflows/Analyze,%20build%20and%20deploy/badge.svg)
 
 
-![Tizeno UI Mockup](demo/Tizeno_Mockup.jpg)
+![UI Mockup](demo/Tizeno_Mockup.jpg)
 
-Tizeno helps one create quick notes, photo notes and more. One can change the color of the notes, mark them as starred or archived, create photo notes and save them locally, storing everything on a SQLite database.
 
 ## List of Contents
 
@@ -82,61 +81,10 @@ The following packages are needed for the development of this application.
 
 More details about these can be found in the [`pubspec.yaml`](https://github.com/Hash-Studios/flutter-notes-app/tree/master/pubspec.yaml) file.
 
-## Usage
-
-The application files for Android devices can be found under the [`release`](https://github.com/Hash-Studios/flutter-notes-app/releases) section.
-- [`app-arm64-v8a-release`](https://github.com/Hash-Studios/flutter-notes-app/releases/download/latest/app-arm64-v8a-release.apk) For most users, this will work. It is for ARM x64 based devices.
-- [`app-armeabi-v7a-release`](https://github.com/Hash-Studios/flutter-notes-app/releases/download/latest/app-armeabi-v7a-release.apk) It is for ARM-based devices.
-- [`app-x86_64-release`](https://github.com/Hash-Studios/flutter-notes-app/releases/download/latest/app-x86_64-release.apk) It is for x86 based devices.
-<!-- 
-More information about the releases can be found in the [Release](https://github.com/Hash-Studios/flutter-notes-app/releases) tab. -->
 
 ## Development
 
 Start by forking the repository, and then run `flutter pub get` in the local repository. You are now ready to modify, fix, update, or remove any feature in the app. If you want, you can create pull requests, we will be happy to welcome them.
 >Note: This project requires Flutter Framework to be installed on your machine.
-
-## License
-
-This app is licensed under the [`BSD 3-Clause License`](https://github.com/Hash-Studios/flutter-notes-app/tree/master/LICENSE.txt).
-Any Usage of the source code must follow the below license.
-
-```
-BSD 3-Clause License
-
-Copyright (c) 2020 Hash Studios
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-```
-
-## Contributors
-
-<a href="https://github.com/Hash-Studios/flutter-notes-app/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Hash-Studios/flutter-notes-app" />
-</a>
 
 ![Tizeno UI Mockup](demo/Tizeno_Mockup2.jpg)
